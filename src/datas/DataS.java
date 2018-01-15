@@ -18,6 +18,7 @@ public class DataS {
         // TODO code application logic here
         System.out.println("F_risoz");
         System.out.println("davood");
+        new MainForm().setVisible(true);
     }
     
 }
